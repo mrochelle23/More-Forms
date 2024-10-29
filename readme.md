@@ -1,4 +1,4 @@
-# Flask Fun App
+# Flask App
 
 This Flask application provides a fun and interactive platform with various features including animal facts, compliments, image filtering, and GIF searching. Users can engage with the application to receive random compliments, learn interesting facts about animals, filter images, and search for GIFs based on their queries.
 
@@ -21,7 +21,7 @@ This Flask application provides a fun and interactive platform with various feat
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/yourusername/More-Forms.git
    cd your-repository
    ```
 
